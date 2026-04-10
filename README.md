@@ -1,5 +1,6 @@
 # Automata-Lab
 ATM Transaction Simulator using Finite State Machine (FSM)
+
 # Overview
 
 This project implements an ATM transaction workflow using a Finite State Machine (FSM). The simulator models the logical sequence of ATM operations and ensures that transitions occur only in the correct order. The system prevents invalid actions and visually demonstrates state transitions in an interactive web interface.
@@ -77,7 +78,7 @@ Tested transaction flows,
 Documentation support
 
 # Application
-ATM workflow simulation
-Automata theory demonstration
-FSM learning tool
-Educational visualization
+1. ATM workflow simulation
+2. Automata theory demonstration
+3. FSM learning tool
+4. Educational visualization
