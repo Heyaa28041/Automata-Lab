@@ -32,9 +32,9 @@ This project illustrates the real-world application of automata theory in modeli
 Each state transitions only through valid user actions.
 
 # Technologies Used
-HTML
-CSS
-JavaScript
+HTML, 
+CSS, 
+JavaScript, 
 Finite State Machine (FSM) Logic
 
 # How to Run
