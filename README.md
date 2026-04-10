@@ -44,9 +44,9 @@ Use the buttons to simulate ATM operations
 Observe state transitions visually
 
 # Project Structure
-ATM-FSM/
-|-Code.html
-│-README.md
+1. Automata-Lab/
+2. |-Code.html
+3. │-README.md
 
 # Working Logic
 
