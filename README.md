@@ -62,18 +62,18 @@ Invalid transitions are blocked by FSM rules.
 1. Pakhi Mittal
 
 Designed FSM model
-Defined states and transitions
-Implemented JavaScript FSM logic
-Integrated UI with state transitions
-Implemented dynamic state highlighting
+Defined states and transitions, 
+Implemented JavaScript FSM logic, 
+Integrated UI with state transitions, 
+Implemented dynamic state highlighting, 
 Debugged transition validation
 
 2. Priyasha Das
 
-Developed HTML structure
-Designed UI using CSS
-Assisted in UI integration
-Tested transaction flows
+Developed HTML structure, 
+Designed UI using CSS, 
+Assisted in UI integration, 
+Tested transaction flows, 
 Documentation support
 
 # Application
